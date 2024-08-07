@@ -1,1 +1,1 @@
-# this is a mern stack based todo app
+# This is a mern stack based todo app
